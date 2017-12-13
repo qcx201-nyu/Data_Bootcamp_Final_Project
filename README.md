@@ -9,6 +9,6 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description
+**Project Description
 
 Explores the lexical power distribution in the English language.
