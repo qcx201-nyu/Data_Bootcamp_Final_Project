@@ -11,4 +11,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 **Project Description**
 
-Explores the lexical power distribution in the English language.
+Explores Zipf's Law--the lexical frequency power distribution in the English language. Compares across three platforms: Reddit, the New York Times, and Twitter.
